@@ -36,7 +36,7 @@ Compile and upload [the code](https://github.com/Mlapn0t/smart_parkinglot/blob/m
 2. The sensors will passively checks for empty space and display to LCD display.
 
 ## Contributors
-[Thanaphat Borsub](https://www.linkedin.com/in/thanaphat-borsub/)
+[Thanaphat Borsub](https://www.linkedin.com/in/thanaphat-borsub/) | 
 [Achirawat Kaitkarnsiri](https://www.linkedin.com/in/achirawat-kaitkansiri-0ab4b22b0/)
 
 ## Credit
