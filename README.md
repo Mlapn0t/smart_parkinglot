@@ -29,7 +29,7 @@ Required libraries for arduino code
 
 ## Usage
 
-Compile and upload the code into arduino board and connect pins according to the [Schematic Diagram](https://drive.google.com/file/d/14_AJm1lmFuwVgnuVntWDBJ6vR0WxtUfo/view?usp=sharing)
+Compile and upload [the code](https://github.com/Mlapn0t/smart_parkinglot/blob/main/smart_parkinglot.ino) into arduino board and connect pins according to the [Schematic Diagram](https://drive.google.com/file/d/14_AJm1lmFuwVgnuVntWDBJ6vR0WxtUfo/view?usp=sharing)
 
 ## Credit
 
