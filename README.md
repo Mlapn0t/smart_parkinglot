@@ -31,6 +31,10 @@ Required libraries for arduino code
 
 Compile and upload [the code](https://github.com/Mlapn0t/smart_parkinglot/blob/main/smart_parkinglot.ino) into arduino board and connect pins according to the [Schematic Diagram](https://drive.google.com/file/d/14_AJm1lmFuwVgnuVntWDBJ6vR0WxtUfo/view?usp=sharing)
 
+0. You can set/change your password to the parking lot in the code (line#14)
+1. Keying correct password or touching RFID card with RFID reader to activate parking barrier
+2. The sensors will passively checks for empty space and display to LCD display.
+
 ## Credit
 
 Tutorial followed
