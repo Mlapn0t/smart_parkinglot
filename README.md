@@ -35,6 +35,10 @@ Compile and upload [the code](https://github.com/Mlapn0t/smart_parkinglot/blob/m
 1. Keying correct password or touching RFID card with RFID reader to activate parking barrier
 2. The sensors will passively checks for empty space and display to LCD display.
 
+## Contributors
+[Thanaphat Borsub](https://www.linkedin.com/in/thanaphat-borsub/)
+[Achirawat Kaitkarnsiri](https://www.linkedin.com/in/achirawat-kaitkansiri-0ab4b22b0/)
+
 ## Credit
 
 Tutorial followed
